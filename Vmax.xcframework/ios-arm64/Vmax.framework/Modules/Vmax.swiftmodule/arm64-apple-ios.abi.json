@@ -57471,161 +57471,112 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 1046,
+      "offset": 1094,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 2677,
+      "offset": 2725,
       "length": 14,
       "value": "\"{accountKey}\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 3135,
-      "length": 9,
-      "value": "\"success\""
+      "offset": 3183,
+      "length": 28,
+      "value": "\"GEO service return success\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 3253,
-      "length": 36,
-      "value": "\"parsing failed due to invalid data\""
+      "offset": 3320,
+      "length": 45,
+      "value": "\"GEO data parsing failed due to invalid data\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3347,
+      "offset": 3423,
       "length": 3,
       "value": "190"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 3370,
+      "offset": 3446,
       "length": 38,
       "value": "\"Geo Detection Service parsing failed\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 3427,
+      "offset": 3503,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 3562,
-      "length": 41,
-      "value": "\"\""
+      "offset": 3638,
+      "length": 49,
+      "value": "\"GEO service Error: \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 3591,
-      "length": 1,
-      "value": "\", vmaxError\""
+      "offset": 3686,
+      "length": 10,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3657,
+      "offset": 3741,
       "length": 3,
       "value": "190"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 3680,
+      "offset": 3764,
       "length": 31,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 3710,
+      "offset": 3794,
       "length": 21,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 3730,
+      "offset": 3814,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 4333,
-      "length": 37,
-      "value": "\"geoDetectionService is empty or nil\""
+      "offset": 6399,
+      "length": 36,
+      "value": "\"Fetching data for GEO from service\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "StringLiteral",
-      "offset": 4601,
-      "length": 37,
-      "value": "\"geoDetectionService encoding failed\""
+      "offset": 6923,
+      "length": 38,
+      "value": "\"Couldn't fetch GEO data from service\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4791,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 4850,
-      "length": 6,
-      "value": "1000.0"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4922,
-      "length": 14,
-      "value": "\"time expires\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4957,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4987,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 5971,
-      "length": 23,
-      "value": "\"using stored GEO data\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6151,
-      "length": 35,
-      "value": "\"fetching new GEO data from server\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/GeoDetectionService\/VmaxGeoDetectionManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7318,
+      "offset": 7849,
       "length": 1,
       "value": "2"
     },
@@ -63115,7 +63066,7 @@
       "kind": "StringLiteral",
       "offset": 482,
       "length": 13,
-      "value": "\"A-IO-4.0.13\""
+      "value": "\"A-IO-4.0.16\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxManager.swift",
@@ -63155,21 +63106,21 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3297,
+      "offset": 3303,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxManager.swift",
       "kind": "StringLiteral",
-      "offset": 3326,
+      "offset": 3332,
       "length": 32,
       "value": "\"Error: The given tagId isEmpty\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxManager.swift",
       "kind": "StringLiteral",
-      "offset": 3460,
+      "offset": 3466,
       "length": 34,
       "value": "\"VmaxManager was not initialized.\""
     },
@@ -68062,212 +68013,149 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 1066,
+      "offset": 1114,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 2827,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2851,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6118,
+      "offset": 6304,
       "length": 39,
       "value": "\"User Profile Request was empty or nil\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 6207,
+      "offset": 6393,
       "length": 3,
       "value": "191"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 6230,
+      "offset": 6416,
       "length": 39,
       "value": "\"User Profile Service was empty or nil\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 6288,
+      "offset": 6474,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 6538,
+      "offset": 6724,
       "length": 14,
       "value": "\"{accountKey}\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 7059,
-      "length": 9,
-      "value": "\"success\""
+      "offset": 7245,
+      "length": 28,
+      "value": "\"UPS service return success\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 7177,
-      "length": 36,
-      "value": "\"parsing failed due to invalid data\""
+      "offset": 7382,
+      "length": 45,
+      "value": "\"UPS data parsing failed due to invalid data\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7271,
+      "offset": 7485,
       "length": 3,
       "value": "191"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 7294,
+      "offset": 7508,
       "length": 37,
       "value": "\"User Profile Service parsing failed\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 7350,
+      "offset": 7564,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 7485,
-      "length": 41,
-      "value": "\"\""
+      "offset": 7699,
+      "length": 49,
+      "value": "\"UPS service Error: \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 7514,
-      "length": 1,
-      "value": "\", vmaxError\""
+      "offset": 7747,
+      "length": 10,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 7580,
+      "offset": 7802,
       "length": 3,
       "value": "191"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 7603,
+      "offset": 7825,
       "length": 31,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 7633,
+      "offset": 7855,
       "length": 21,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 7653,
+      "offset": 7875,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "StringLiteral",
-      "offset": 8255,
-      "length": 36,
-      "value": "\"userProfileService is empty or nil\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "StringLiteral",
-      "offset": 8522,
-      "length": 36,
-      "value": "\"userProfileService encoding failed\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 8714,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 8773,
-      "length": 6,
-      "value": "1000.0"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "StringLiteral",
-      "offset": 8845,
-      "length": 14,
-      "value": "\"time expires\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8880,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8910,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10804,
+      "offset": 11081,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 10824,
+      "offset": 11101,
       "length": 8,
       "value": "\"X-AUTH\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 11888,
-      "length": 34,
-      "value": "\"using stored profileService data\""
+      "offset": 12474,
+      "length": 44,
+      "value": "\"Fetching data for UserProfile from service\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/UserProfileService\/VmaxUserProfileManager.swift",
       "kind": "StringLiteral",
-      "offset": 12087,
+      "offset": 13385,
       "length": 46,
-      "value": "\"fetching new profileService data from server\""
+      "value": "\"Couldn't fetch UserProfile data from service\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Models&Enums\/VmaxSections.swift",
@@ -71891,308 +71779,308 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 12088,
+      "offset": 12158,
       "length": 64,
       "value": "\"In the adResponse, adm object is empty, or signature is empty.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 15730,
+      "offset": 15800,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 15739,
+      "offset": 15809,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 16196,
+      "offset": 16266,
       "length": 25,
       "value": "\"event:\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 16220,
+      "offset": 16290,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 17117,
+      "offset": 17187,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 17166,
+      "offset": 17236,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 17194,
+      "offset": 17264,
       "length": 74,
       "value": "\"refreshInterval time is not configured by publisher fallback to 30 secs.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 17310,
+      "offset": 17380,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 17474,
+      "offset": 17544,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19332,
+      "offset": 19402,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19446,
+      "offset": 19516,
       "length": 8,
       "value": "\"gender\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19564,
+      "offset": 19634,
       "length": 6,
       "value": "\"city\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19682,
+      "offset": 19752,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19798,
+      "offset": 19868,
       "length": 5,
       "value": "\"age\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 19908,
+      "offset": 19978,
       "length": 5,
       "value": "\"zip\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20268,
+      "offset": 20338,
       "length": 4,
       "value": "6002"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20299,
+      "offset": 20369,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20316,
+      "offset": 20386,
       "length": 4,
       "value": "6003"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20347,
+      "offset": 20417,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20364,
+      "offset": 20434,
       "length": 4,
       "value": "6004"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20395,
+      "offset": 20465,
       "length": 3,
       "value": "\"4\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20412,
+      "offset": 20482,
       "length": 4,
       "value": "6005"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20443,
+      "offset": 20513,
       "length": 3,
       "value": "\"5\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20460,
+      "offset": 20530,
       "length": 4,
       "value": "6006"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20491,
+      "offset": 20561,
       "length": 3,
       "value": "\"6\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20508,
+      "offset": 20578,
       "length": 4,
       "value": "6007"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20539,
+      "offset": 20609,
       "length": 3,
       "value": "\"7\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "IntegerLiteral",
-      "offset": 20556,
+      "offset": 20626,
       "length": 4,
       "value": "6008"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20587,
+      "offset": 20657,
       "length": 3,
       "value": "\"8\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20633,
+      "offset": 20703,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 20750,
+      "offset": 20820,
       "length": 10,
       "value": "\"<NOFILL>\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 21680,
+      "offset": 21750,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 21711,
+      "offset": 21781,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 24686,
+      "offset": 24756,
       "length": 53,
       "value": "\"The adResponse is empty or nil for the given VmaxAd\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 25306,
+      "offset": 25376,
       "length": 53,
       "value": "\"The adResponse is empty or nil for the given VmaxAd\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 26015,
+      "offset": 26085,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 26108,
+      "offset": 26178,
       "length": 38,
       "value": "\"Couldn't update the status of vmaxAd\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 26794,
+      "offset": 26864,
       "length": 38,
       "value": "\"Couldn't update the status of vmaxAd\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 26974,
+      "offset": 27044,
       "length": 57,
       "value": "\"Couldn't update the local variable of vmaxAd and markup\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 27508,
+      "offset": 27578,
       "length": 57,
       "value": "\"Couldn't update the local variable of vmaxAd and markup\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "BooleanLiteral",
-      "offset": 28552,
+      "offset": 28622,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 30196,
+      "offset": 30266,
       "length": 32,
       "value": "\"adRefreshTimer is empty or nil\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxAdSpace.swift",
       "kind": "StringLiteral",
-      "offset": 30415,
+      "offset": 30485,
       "length": 32,
       "value": "\"adRefreshTimer is empty or nil\""
     },
@@ -73808,169 +73696,176 @@
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1297,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 2018,
+      "offset": 2059,
       "length": 41,
       "value": "\"Couldn't build a payload for adRequest.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 2397,
+      "offset": 2438,
       "length": 43,
       "value": "\"AdRequest payload is either empty or nil.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 2458,
+      "offset": 2499,
       "length": 45,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 2491,
+      "offset": 2532,
       "length": 1,
       "value": "\", vmaxError\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 2846,
+      "offset": 2887,
       "length": 14,
       "value": "\"{accountKey}\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 3316,
+      "offset": 3357,
       "length": 9,
       "value": "\"success\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 3749,
+      "offset": 3790,
       "length": 38,
       "value": "\"JSON decoding failed for adResponse.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 3813,
+      "offset": 3854,
       "length": 34,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 3846,
+      "offset": 3887,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 4149,
+      "offset": 4190,
       "length": 30,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 4178,
+      "offset": 4219,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 4550,
+      "offset": 4591,
       "length": 43,
       "value": "\"requestId: \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 4574,
+      "offset": 4615,
       "length": 6,
       "value": "\" adSpot: \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 4592,
+      "offset": 4633,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 4708,
+      "offset": 4749,
       "length": 25,
       "value": "\"requestId: \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 4732,
+      "offset": 4773,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 4810,
+      "offset": 4851,
       "length": 47,
       "value": "\"requestListener is nil requestId:\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 4856,
+      "offset": 4897,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 5059,
+      "offset": 5100,
       "length": 41,
       "value": "\"requestId: \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 5083,
+      "offset": 5124,
       "length": 5,
       "value": "\" error: \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 5099,
+      "offset": 5140,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 5177,
+      "offset": 5218,
       "length": 57,
       "value": "\"requestListener is nil requestId:\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 5223,
+      "offset": 5264,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/AdFetcher\/Swagger\/VmaxSwaggerClient.swift",
       "kind": "StringLiteral",
-      "offset": 5233,
+      "offset": 5274,
       "length": 10,
       "value": "\"\""
     },
@@ -74438,29 +74333,22 @@
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxRequest.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2189,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxRequest.swift",
       "kind": "StringLiteral",
-      "offset": 2531,
+      "offset": 2748,
       "length": 17,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxRequest.swift",
       "kind": "StringLiteral",
-      "offset": 2547,
+      "offset": 2764,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxRequest.swift",
       "kind": "StringLiteral",
-      "offset": 2582,
+      "offset": 2799,
       "length": 11,
       "value": "\"requestId\""
     },
@@ -75862,7 +75750,7 @@
       "kind": "StringLiteral",
       "offset": 968,
       "length": 58,
-      "value": "\"https:\/\/alpharq.vmax.com\/{accountKey}\/adspot\/1.0.1\/query\""
+      "value": "\"https:\/\/as-uat.vmax.com\/{accountKey}\/adspot\/1.0.1\/query\/\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
@@ -75875,104 +75763,104 @@
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
       "offset": 1161,
-      "length": 58,
-      "value": "\"https:\/\/alpharq.vmax.com\/{accountKey}\/adspot\/1.0.1\/query\""
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1289,
+      "offset": 1233,
       "length": 55,
       "value": "\"https:\/\/as.runn.media\/{accountKey}\/adspot\/1.0.1\/query\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1347,
+      "offset": 1291,
       "length": 58,
       "value": "\"https:\/\/alpharq.vmax.com\/{accountKey}\/adspot\/1.0.1\/query\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1578,
+      "offset": 1522,
       "length": 35,
       "value": "\"https:\/\/ups.vmax.com\/{accountKey}\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1616,
-      "length": 49,
-      "value": "\"https:\/\/alpha-services-up.vmax.com\/{accountKey}\""
+      "offset": 1560,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1736,
-      "length": 44,
-      "value": "\"https:\/\/ups-vmax.fancode.com\/{accountKey}\/\""
+      "offset": 1756,
+      "length": 47,
+      "value": "\"https:\/\/ups-vmax-v2.fancode.com\/{accountKey}\/\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1783,
-      "length": 49,
-      "value": "\"https:\/\/alpha-services-up.vmax.com\/{accountKey}\""
+      "offset": 1806,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1902,
+      "offset": 1878,
       "length": 38,
       "value": "\"https:\/\/ups.runn.media\/{accountKey}\/\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 1943,
+      "offset": 1919,
       "length": 49,
       "value": "\"https:\/\/alpha-services-up.vmax.com\/{accountKey}\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2166,
+      "offset": 2142,
       "length": 35,
       "value": "\"https:\/\/dgs.vmax.com\/{accountKey}\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2204,
-      "length": 46,
-      "value": "\"https:\/\/alpha-services.vmax.com\/{accountKey}\""
+      "offset": 2180,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2321,
-      "length": 44,
-      "value": "\"https:\/\/dgs-vmax.fancode.com\/{accountKey}\/\""
+      "offset": 2376,
+      "length": 47,
+      "value": "\"https:\/\/dgs-vmax-v2.fancode.com\/{accountKey}\/\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2368,
-      "length": 46,
-      "value": "\"https:\/\/alpha-services.vmax.com\/{accountKey}\""
+      "offset": 2426,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2484,
+      "offset": 2498,
       "length": 38,
       "value": "\"https:\/\/dgs.runn.media\/{accountKey}\/\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxConstant\/VmaxConstant.swift",
       "kind": "StringLiteral",
-      "offset": 2525,
+      "offset": 2539,
       "length": 49,
       "value": "\"https:\/\/alpha-services-up.vmax.com\/{accountKey}\""
     },

@@ -22,43 +22,43 @@
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		kYyxRAaErqiy5jW+CGxbKWyxRfM=
+		x6naFi7beSbmMOOEd1CRtVXbPRo=
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		hJsWi7rcmdP0FEIrrk25YcPY6AA=
+		auykuG9qdiM+d+jzJS8+71p+Bbc=
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		VY9W9ZSMFlMc8X1cyuIqWsWuc4U=
+		C4Nj/keCT10UVmI6iJx0R//7PkY=
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hJsWi7rcmdP0FEIrrk25YcPY6AA=
+		auykuG9qdiM+d+jzJS8+71p+Bbc=
 		</data>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TEqmA0VsfVJokm6rhRVsF7FUGfc=
+		Z9NxB8PRSUcYLJPR1rGgs59e5eI=
 		</data>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kYyxRAaErqiy5jW+CGxbKWyxRfM=
+		x6naFi7beSbmMOOEd1CRtVXbPRo=
 		</data>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5Agq/8Dc8q9xGRDAXzhlzpFuRy4=
+		1nEB0GTqsmRBKdXfU3JR9vThS6A=
 		</data>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		5ZzkZZVGAOowtaXRcm535JFff7c=
+		VEAOL/HJ5sXl4lhYF8WRD+kJvJw=
 		</data>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5Agq/8Dc8q9xGRDAXzhlzpFuRy4=
+		1nEB0GTqsmRBKdXfU3JR9vThS6A=
 		</data>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vDxHjyYkzSUB8gJk9hL+HhleiOw=
+		Lf9lnD6M8PPlJDVZFBY7yaNw680=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -92,70 +92,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2CWpquBqULiBpUJOjAEl5qt4b7JAi2jB8fVxwl+tDIc=
+			tC3aZ80sltnkZ86R716qMgA06aTjISKLbHnHd5PBb4E=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CADQLfExankFAVfzdfG7mlDVs/LYoOj++2FULYD5Sw4=
+			9zoNhdxb47WDtLiuDYO3lGODvq8YsTsSji12iExixjo=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JGt4RuraVcwIc/XaqyPrIV9uRMHG/YSL/Y+lZdn4b0M=
+			n8RBC5BgM5sQP+DDogz/83Jb2D6+2NyXXX/51anG1eA=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CADQLfExankFAVfzdfG7mlDVs/LYoOj++2FULYD5Sw4=
+			9zoNhdxb47WDtLiuDYO3lGODvq8YsTsSji12iExixjo=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zv0mV0LyM3hAWjz5QjDOazMPRYAQhD2ZS7BXrxpD9yA=
+			sUddTbX5VWmJQpQbaf5hqrqzeBoGHo76bWObQLnJmH8=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2CWpquBqULiBpUJOjAEl5qt4b7JAi2jB8fVxwl+tDIc=
+			tC3aZ80sltnkZ86R716qMgA06aTjISKLbHnHd5PBb4E=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mzJ9IV9CgZjRx1EHTAZZKl3X5DC7J2yaM5oLJ0suF1Q=
+			4w4RG9zpnLUyWiw+OP52VAQPOLnR462SoYBbvSV30nY=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T7j0MUYu7fPp6cCB+ZxCINBnCRoxPEwvtXkBmnXsW3c=
+			7N7f6v7gKyxpRYLSXANZXynQhATr6xF7wggIciSqahQ=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mzJ9IV9CgZjRx1EHTAZZKl3X5DC7J2yaM5oLJ0suF1Q=
+			4w4RG9zpnLUyWiw+OP52VAQPOLnR462SoYBbvSV30nY=
 			</data>
 		</dict>
 		<key>Modules/Vmax.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sjaf2WF3PTBdeyLtCceaDiE2y51Gwh6NOoD/4rB5/s8=
+			CzMXn3uwni3oS66xlNlXf3TUisET1OY7y2dQvGMtZNc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

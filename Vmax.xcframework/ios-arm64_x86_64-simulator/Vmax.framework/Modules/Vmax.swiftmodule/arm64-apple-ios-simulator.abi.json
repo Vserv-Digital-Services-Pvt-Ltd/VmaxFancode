@@ -63210,7 +63210,7 @@
       "kind": "StringLiteral",
       "offset": 482,
       "length": 13,
-      "value": "\"A-IO-4.0.21\""
+      "value": "\"A-IO-4.0.27\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxManager.swift",
@@ -63222,14 +63222,7 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxManager.swift",
       "kind": "StringLiteral",
-      "offset": 1098,
-      "length": 25,
-      "value": "\"VmaxManager Initialized\""
-    },
-    {
-      "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Public\/Core\/VmaxManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2014,
+      "offset": 1987,
       "length": 33,
       "value": "\"VmaxManager already initialized\""
     },
@@ -65280,357 +65273,357 @@
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 493,
+      "offset": 461,
       "length": 52,
       "value": "\"Couldn't find the given tagId in dampening request\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 786,
+      "offset": 754,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 934,
+      "offset": 902,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 973,
+      "offset": 941,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 1211,
+      "offset": 1179,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 1250,
+      "offset": 1218,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1652,
+      "offset": 1620,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1760,
+      "offset": 1728,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1817,
+      "offset": 1785,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1847,
+      "offset": 1815,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 2307,
+      "offset": 2359,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 2637,
+      "offset": 2715,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 2790,
+      "offset": 2868,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 2889,
+      "offset": 2967,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 2938,
+      "offset": 3016,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 2962,
+      "offset": 3040,
       "length": 81,
       "value": "\"The request can't be processed because it was Dampened due to multiple no fill.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 3068,
+      "offset": 3146,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 3113,
+      "offset": 3191,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 3482,
+      "offset": 3638,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 3695,
+      "offset": 3885,
       "length": 85,
       "value": "\"Dampened Request response received from server so we're removing it from the Queue.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 4495,
+      "offset": 4800,
       "length": 35,
       "value": "\"Adding request in Dampening Queue\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 4854,
+      "offset": 5172,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 4941,
+      "offset": 5259,
       "length": 56,
       "value": "\"Found the given Dampening requestAttribute in the map.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 5108,
+      "offset": 5426,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 5140,
+      "offset": 5458,
       "length": 94,
       "value": "\"Dampening requestAttribute maxNoFill count reach to zero so now we're dampening the request.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 5387,
+      "offset": 5722,
       "length": 45,
       "value": "\"Using the existing DampeningRequest object.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 5577,
+      "offset": 5912,
       "length": 41,
       "value": "\"Creating a new DampeningRequest object.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 6024,
+      "offset": 6474,
       "length": 98,
       "value": "\"Given tagId already existed but the DampeningRequestAttribute is different so we're adding them.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 6223,
+      "offset": 6673,
       "length": 80,
       "value": "\"No tagId were found for given Dampening requestAttribute so we're adding them.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 6950,
+      "offset": 7413,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 7046,
+      "offset": 7509,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 7091,
+      "offset": 7554,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 7278,
+      "offset": 7741,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 7364,
+      "offset": 7827,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 7401,
+      "offset": 7864,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 7686,
+      "offset": 8149,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 8290,
+      "offset": 8753,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 8307,
+      "offset": 8770,
       "length": 59,
       "value": "\"Dampening adRequest for \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 8356,
+      "offset": 8819,
       "length": 7,
       "value": "\" minutes.\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 8462,
+      "offset": 8925,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 9382,
+      "offset": 9845,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 9405,
+      "offset": 9868,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 9434,
+      "offset": 9897,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 9450,
+      "offset": 9913,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 9694,
+      "offset": 10157,
       "length": 39,
       "value": "\"Fibonacci Numbers \""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "StringLiteral",
-      "offset": 9732,
+      "offset": 10195,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 9914,
+      "offset": 10377,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 9918,
+      "offset": 10381,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "BooleanLiteral",
-      "offset": 9961,
+      "offset": 10424,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 10245,
+      "offset": 10708,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/admin_vserv\/VservWorkspace\/Vserv_Git\/vmaxng-sdk-ios\/Vmax\/Vmax\/Private\/VmaxAdRequestAdvisor\/DampeningRequestAdvisor.swift",
       "kind": "IntegerLiteral",
-      "offset": 10348,
+      "offset": 10811,
       "length": 1,
       "value": "1"
     },
